@@ -1,0 +1,66 @@
+{
+  "patient_id": "P002",
+  "patient_details": {
+    "name": "Red Flag Test Patient",
+    "age": 55,
+    "gender": "Male"
+  },
+
+  "chief_complaint": "Severe chest discomfort with difficulty breathing",
+
+  "symptoms": [
+    "Severe chest discomfort",
+    "Difficulty breathing",
+    "Sweating",
+    "Weakness"
+  ],
+
+  "medical_history": [
+    "No confirmed diagnosis recorded in this test example"
+  ],
+
+  "medications": [
+    "None reported"
+  ],
+
+  "allergies": [
+    "None reported"
+  ],
+
+  "red_flag": {
+    "status": true,
+    "reason": "Severe chest discomfort with difficulty breathing requires priority clinical assessment."
+  },
+
+  "ayurvedic_assessment": {
+    "trividha_pariksha": {
+      "darshana": "Patient appears uncomfortable based on reported symptoms.",
+      "sparshana": "Requires practitioner examination.",
+      "prashna": "Patient reports severe chest discomfort and difficulty breathing."
+    },
+
+    "ashtavidha_pariksha": {
+      "nadi": "Not assessed",
+      "mutra": "Not assessed",
+      "mala": "Not assessed",
+      "jihva": "Not assessed",
+      "shabda": "Speech assessment requires practitioner observation",
+      "sparsha": "Not assessed",
+      "drik": "Not assessed",
+      "akriti": "General appearance requires practitioner assessment"
+    },
+
+    "dashavidha_pariksha": {
+      "prakriti": "Not assessed",
+      "vikriti": "Requires practitioner assessment",
+      "sara": "Not assessed",
+      "samhanana": "Not assessed",
+      "pramana": "Not recorded",
+      "satmya": "Patient history required",
+      "satva": "Requires assessment",
+      "ahara_shakti": "Not assessed",
+      "vyayama_shakti": "Not assessed",
+      "vaya": "55 years"
+    }
+  }
+}
