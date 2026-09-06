@@ -1,0 +1,66 @@
+{
+  "patient_id": "P001",
+  "patient_details": {
+    "name": "Sample Patient",
+    "age": 35,
+    "gender": "Female"
+  },
+
+  "chief_complaint": "Digestive discomfort for 3 days",
+
+  "symptoms": [
+    "Abdominal discomfort",
+    "Reduced appetite",
+    "Bloating"
+  ],
+
+  "medical_history": [
+    "No major medical history reported"
+  ],
+
+  "medications": [
+    "None reported"
+  ],
+
+  "allergies": [
+    "None reported"
+  ],
+
+  "red_flag": {
+    "status": false,
+    "reason": null
+  },
+
+  "ayurvedic_assessment": {
+
+    "trividha_pariksha": {
+      "darshana": "General appearance information not fully assessed.",
+      "sparshana": "Requires practitioner examination.",
+      "prashna": "Patient reports digestive discomfort for approximately 3 days."
+    },
+
+    "ashtavidha_pariksha": {
+      "nadi": "Not assessed",
+      "mutra": "Patient-reported information not available",
+      "mala": "Patient reports digestive discomfort",
+      "jihva": "Not assessed",
+      "shabda": "Speech appears normal",
+      "sparsha": "Not assessed",
+      "drik": "Not assessed",
+      "akriti": "General appearance recorded"
+    },
+
+    "dashavidha_pariksha": {
+      "prakriti": "Not assessed",
+      "vikriti": "Requires practitioner assessment",
+      "sara": "Not assessed",
+      "samhanana": "Not assessed",
+      "pramana": "Not recorded",
+      "satmya": "Patient history required",
+      "satva": "Requires assessment",
+      "ahara_shakti": "Reduced appetite reported",
+      "vyayama_shakti": "Not recorded",
+      "vaya": "35 years"
+    }
+  }
+}
